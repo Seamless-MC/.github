@@ -2,7 +2,7 @@
 ### Plugins and tools to enchance gameplay on Spigot servers
 ### I was working on SeamlessMC as a server itself with exclusive plugins but I no longer have the time so I will be maintaing and realeasing the plugins themselves!
 ### Note: these projects have been abondoned for years some will be fully functional some will not with the current Spigot, Discord, Packet, or other plugin(s) APIs.
-### I have plans to update and modernize all SeamlessMC plugins to Spigot 1.21.1 by the end of the 2024
+### I have plans to update and modernize all SeamlessMC plugins to Spigot 1.22 upon release
 
 <!--
 
